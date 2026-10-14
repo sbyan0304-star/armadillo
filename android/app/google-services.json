@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1022530717821",
+    "project_id": "armadillos-b9274",
+    "storage_bucket": "armadillos-b9274.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022530717821:android:342142bde36ff1d5c34914",
+        "android_client_info": {
+          "package_name": "com.example.armadillo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022530717821-kegv05071v07omkjd1u9rr0a168rpv34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.armadillo",
+            "certificate_hash": "d34594ba5bf7f0e577c88a023648abaaec959407"
+          }
+        },
+        {
+          "client_id": "1022530717821-ac98soig9p5rkq9pdtiprul66hnd1ucr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMBWLVDELFRV8L05glvReorDzDQt4jvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022530717821-ac98soig9p5rkq9pdtiprul66hnd1ucr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1022530717821-k4km4dnd8lsco73fpq6kb1557m53qbld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.armadillo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
