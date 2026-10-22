@@ -525,11 +525,9 @@ class _AdminCreateRecipeScreenState extends State<AdminCreateRecipeScreen> {
 
     final bool guardado = await guardarReceta();
 
-    if (!mounted) return;
+    if (!mounted || !guardado) return;
 
-    if (guardado) {
-      Navigator.of(context).pop(true);
-    }
+    Navigator.of(context).pop(true);
   }
 
   // ============================================================
