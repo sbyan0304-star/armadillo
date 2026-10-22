@@ -1,17 +1,13 @@
 # armadillo
 
-A new Flutter project.
+**Descripción del proyecto**
+Armadillos es una aplicación móvil desarrollada con Flutter que busca preservar y difundir la gastronomía tradicional de Ixmiquilpan y Cardonal, Hidalgo. Permite a los usuarios descubrir recetas regionales, consultar sus ingredientes y preparación, y guardar sus favoritas.
 
-## Getting Started
+**Objetivo**
+Promover la cultura gastronómica de la región mediante una plataforma digital accesible, que facilite la consulta y conservación de recetas tradicionales para las nuevas generaciones.
 
-This project is a starting point for a Flutter application.
+**Inspiración**
+El proyecto surge del interés por conservar las tradiciones culinarias de la región, reconociendo que las recetas típicas forman parte de la identidad cultural y de los conocimientos transmitidos entre generaciones.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**¿Cómo funciona?**
+La aplicación permite a los usuarios explorar recetas, consultar sus detalles, guardar favoritas y acceder a su perfil. Cuenta con un módulo administrativo para gestionar las recetas. Utiliza Firebase para la autenticación y el almacenamiento de datos en la nube, y Cloudinary para alojar las imágenes de las recetas.
