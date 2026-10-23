@@ -4,7 +4,7 @@ Las evaluaciones deben registrarse directamente en el Issue de validación.
 
 ## Issue de validación
 
-(https://github.com/sbyan0304-star/armadillo/issues/1)
+(https://github.com/sbyan0304-star/armadillo/issues/1)Link
 
 ## Instrucciones
 
