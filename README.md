@@ -1,17 +1,28 @@
-# armadillo
+\# Pruebas de Usuario - Armadillos
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Las evaluaciones deben registrarse directamente en el Issue de validación.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+\## Issue de validación
+
+
+
+https://github.com/sbyan0304-star/armadillo/issues/1
+
+
+
+\## Instrucciones
+
+
+
+1\. Acceda al Issue.
+
+2\. Complete el formato de evaluación.
+
+3\. Registre los hallazgos encontrados.
+
+4\. Publique su evaluación como comentario.
+
